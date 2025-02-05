@@ -4,19 +4,19 @@
 
 Network Design of the residence hall: 
 
-(./main/task4-1-1-Design-network.png)
+![Design-network](./main/task4-1-1-Design-network.png)
 
 Network Design of on-site management office
 
-[Management_office](./main/task-4-1-1-Managementoffice.png)
+![Management_office](./main/task-4-1-1-Managementoffice.png)
 
 Network Design of the organisation’s main office: 
 
-[Main_office](./main/task4-1-1-Mainoffice.png)
+![Main_office](./main/task4-1-1-Mainoffice.png)
 
 Combine network:
 
-[Combine-Network](./main/task4-1-1-Combine-Network.png)
+![Combine-Network](./main/task4-1-1-Combine-Network.png)
 
 Key design decisions: 
 
@@ -89,6 +89,8 @@ Wynekoop, J., Johnson, D. and Finan, J. (2021). Enterprise Network Design: How i
 4.2 Cloud Services
 
 Network design:
+
+![cloudservice](./main/task-4-2-CloudService.png)
 
 
 
