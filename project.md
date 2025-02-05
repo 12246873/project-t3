@@ -86,6 +86,13 @@ Cisa (2024). Securing Network Infrastructure Devices | CISA. [online] Cybersecur
 Wynekoop, J., Johnson, D. and Finan, J. (2021). Enterprise Network Design: How is It Done? IFIP advances in information and communication technology, [online] pp.87–93. doi:https://doi.org/10.1007/978-0-387-35489-7_7.
 
 
+4.2 Cloud Services
+
+Network design:
+
+
+
+
 
 
 
