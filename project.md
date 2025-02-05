@@ -4,5 +4,7 @@
 
 Network Design of the residence hall: 
 
+[Design-network](./main/task4-1-1-Design-network.png)
+
 
 
