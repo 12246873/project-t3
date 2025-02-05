@@ -12,6 +12,8 @@ Network Design of on-site management office
 
 Network Design of the organisation’s main office: 
 
+Main_office](./main/task4-1-1-Mainoffice.png)
+
 
 
 
