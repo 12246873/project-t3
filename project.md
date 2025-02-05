@@ -8,5 +8,7 @@ Network Design of the residence hall:
 
 Network Design of on-site management office
 
+[Management_office](./main/task-4-1-1-Managementoffice.png)
+
 
 
