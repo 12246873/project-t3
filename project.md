@@ -14,6 +14,8 @@ Network Design of the organisation’s main office:
 
 [Main_office](./main/task4-1-1-Mainoffice.png)
 
+Combine network:
+
 
 
 
